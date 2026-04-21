@@ -1,6 +1,4 @@
-# HR-Prediction-ML
-Predic# HR Prediction ML
-
+## HR Prediction ML
 ### Overview
 This project focuses on predicting employee attrition using Machine Learning.
 The dataset was first analyzed in Power BI to understand key trends and patterns.
